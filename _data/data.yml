@@ -63,7 +63,7 @@ education:
       university: ETH Zurich, Switzerland
       time: 2012 - 2014
       details: |
-        Masters' Thesis titled "Human Acquisition and Re-acquisition by Clothing Characterization"
+        Masters Thesis titled Human Acquisition and Re-acquisition by Clothing Characterization
           - Bullet point
           - Bullet point 
 
@@ -71,9 +71,7 @@ education:
       university: Indian Institute of Technology, Jodhpur
       time: 2008 - 2012
       details: |
-        Bachelors' Thesis titled "Development of a Voice Controlled Autonomous Wheelchair"
-          - Bullet point
-          - Bullet point 
+        Bachelors Thesis titled Development of a Voice Controlled Autonomous Wheelchair
 
 experiences:
     - role: Lead Developer
