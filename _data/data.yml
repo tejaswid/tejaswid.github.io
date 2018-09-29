@@ -150,22 +150,31 @@ projects:
 
 publications:
     title: Publications
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Automatic segmentation of Tree Structure from Point Cloud Data"
+        authors: "S. T. Digumarti, J. Nieto, C. Cadena, R. Siegwart, P. Beardsley"
+        conference: "IEEE Robotics and Automation Letters (RAL), 2018"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Underwater 3D capture using a low-cost commercial depth camera"
+        authors: "S. T. Digumarti, G. Chaurasia, A. Taneja, R. Siegwart, A. Thomas, P. Beardsley"
+        conference: "IEEE Winter Conference on Applications of Computer Vision (WACV), pp. 1-9, 2016"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Rendezvous with bearing-only information and limited sensing range"
+        authors: "M. Kriegleder, S. T. Digumarti, R. Oung, R. d’Andrea"
+        conference: "IEEE Conference on Robotics and Automation (ICRA), 5941-5947, Seattle, USA, May 26-30, 2015"
+
+      - title: "Design and Implementation of a Smart Wheelchair"
+        authors: "A. Trivedi, A. Singh, S. T. Digumarti, D. Fulwani, S. Kumar"
+        conference: "Advances in Robotics, International Conference of Robotics Society of India, Pune, India, July 4-6, 2013"  
+
+      - title: "The Opportunity challenge: A benchmark database for on-body sensor-based activity recognition"
+        authors: "R. Chavarriaga, H. Sagha, A. Calatroni, S. T. Digumarti, G. Tröster, J. d. R. Millán, D. Roggen"
+        conference: "Pattern Recognition Letters, 2013"
+
+      - title: "Benchmarking classification techniques using the Opportunity human activity dataset"
+        authors: "H. Sagha, S. T. Digumarti, J. d. R. Millán, R. Chavarriaga Lozano, A. Calatroni, D. Roggen, G. Tr\"oster"
+        conference: "IEEE International Conference on Systems, Man, and Cybernetics, Anchorage, AK, USA, October 9-12, 2011"
 
 skills:
     title: Skills &amp; Proficiency
