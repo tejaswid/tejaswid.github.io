@@ -122,48 +122,57 @@ publications:
       - title: "Automatic segmentation of Tree Structure from Point Cloud Data"
         authors: "S. T. Digumarti, J. Nieto, C. Cadena, R. Siegwart, P. Beardsley"
         conference: "IEEE Robotics and Automation Letters (RAL), 2018"
+        links: "[paper](https://ieeexplore.ieee.org/document/8392392?reload=true)"
 
       - title: "Underwater 3D capture using a low-cost commercial depth camera"
         authors: "S. T. Digumarti, G. Chaurasia, A. Taneja, R. Siegwart, A. Thomas, P. Beardsley"
         conference: "IEEE Winter Conference on Applications of Computer Vision (WACV), pp. 1-9, 2016"
+        links: "[paper](https://ieeexplore.ieee.org/document/7477644) | [video1](https://www.youtube.com/watch?v=FZ6yE4HASls)"
 
       - title: "Rendezvous with bearing-only information and limited sensing range"
         authors: "M. Kriegleder, S. T. Digumarti, R. Oung, R. d’Andrea"
         conference: "IEEE Conference on Robotics and Automation (ICRA), 5941-5947, Seattle, USA, May 26-30, 2015"
+        links: "[paper](https://ieeexplore.ieee.org/document/7140032)"
 
       - title: "Design and Implementation of a Smart Wheelchair"
         authors: "A. Trivedi, A. Singh, S. T. Digumarti, D. Fulwani, S. Kumar"
         conference: "Advances in Robotics, International Conference of Robotics Society of India, Pune, India, July 4-6, 2013"  
+        links: "[paper](https://dl.acm.org/citation.cfm?id=2506140)"
 
       - title: "The Opportunity challenge: A benchmark database for on-body sensor-based activity recognition"
         authors: "R. Chavarriaga, H. Sagha, A. Calatroni, S. T. Digumarti, G. Tröster, J. d. R. Millán, D. Roggen"
         conference: "Pattern Recognition Letters, 2013"
+        links: "[paper](https://www.sciencedirect.com/science/article/pii/S0167865512004205)"
 
       - title: "Benchmarking classification techniques using the Opportunity human activity dataset"
         authors: "H. Sagha, S. T. Digumarti, J. d. R. Millán, R. Chavarriaga Lozano, A. Calatroni, D. Roggen, G. Tr\"oster"
         conference: "IEEE International Conference on Systems, Man, and Cybernetics, Anchorage, AK, USA, October 9-12, 2011"
+        links: "[paper](https://ieeexplore.ieee.org/document/6083628)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: "Programming - C/C++, Python, ROS, Matlab"
+        level: 99%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: "Deep Learning - Tensorflow, PyTorch"
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: "Embedded Programming - AVR, Arduino"
+        level: 85%
+
+      - name: "Design - Illustrator, Photoshop"
+        level: 75%
+
+      - name: "CAD - OnShape"
+        level: 70%
+
+      - name: "Circuit Design - KiCad"
+        level: 50%
+
+      - name: "Workshop Skills - Soldering, Welding, Casting, Turning, 3D Printing, Laser Cutting"
+        level: 80%
 
 footer: >
     Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
