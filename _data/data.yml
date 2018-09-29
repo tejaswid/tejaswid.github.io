@@ -153,26 +153,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: "Programming - C/C++, Python, ROS, Matlab"
+      - name: "Programming  C/C++, Python, ROS, Matlab"
         level: 99%
 
-      - name: "Deep Learning - Tensorflow, PyTorch"
+      - name: "Deep Learning  Tensorflow, PyTorch"
         level: 85%
 
-      - name: "Embedded Programming - AVR, Arduino"
+      - name: "Embedded Programming  AVR, Arduino"
         level: 85%
 
-      - name: "Design - Illustrator, Photoshop"
+      - name: "Design  Illustrator, Photoshop"
         level: 75%
 
-      - name: "CAD - OnShape"
+      - name: "CAD  OnShape"
         level: 70%
 
-      - name: "Circuit Design - KiCad"
+      - name: "Circuit Design  KiCad"
         level: 50%
 
-      - name: "Workshop Skills - Soldering, Welding, Casting, Turning, 3D Printing, Laser Cutting"
-        level: 80%
+      - name: "Workshop Skills  Soldering, Welding, Casting, Turning, 3D Printing, Laser Cutting"
+        level: 99%
 
 footer: >
     Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
