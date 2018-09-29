@@ -43,19 +43,27 @@ sidebar:
         level: Beginner
         
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
+        link:
+
+      - item: Painting and sculpting
+        link:
+
+      - item: Hiking
+        link:
+
+      - item: Table Tennis
+        link: 
+
+      - item: Video Games
         link:
 
 career-profile:
     title: About me
     summary: |
-      Hello! I am a final year doctoral student at the [Autonomous Systems Lab](http://www.asl.ethz.ch/) at ETH Zurich.
+      Hello! 
+
+      I am a final year doctoral student at the [Autonomous Systems Lab](http://www.asl.ethz.ch/) at ETH Zurich.
       My supervisor is [Prof. Dr. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html).
 
       My doctoral thesis is in collaboration with [Disney Research](https://www.disneyresearch.com/), Zurich where I work in the
@@ -71,7 +79,7 @@ education:
           - Bullet point 
 
     - degree: Bachelor of Technology in Electrical Engineering
-      university: Indian Institute of Technology, Jodhpur
+      university: Indian Institute of Technology, Jodhpur, India
       time: 2008 - 2012
       details: |
         Bachelors Thesis titled Development of a Voice Controlled Autonomous Wheelchair
@@ -122,33 +130,33 @@ publications:
       - title: "Automatic segmentation of Tree Structure from Point Cloud Data"
         authors: "S. T. Digumarti, J. Nieto, C. Cadena, R. Siegwart, P. Beardsley"
         conference: "IEEE Robotics and Automation Letters (RAL), 2018"
-        links: <a href="https://ieeexplore.ieee.org/document/8392392?reload=true">paper</a>
+        links: <a href="https://ieeexplore.ieee.org/document/8392392?reload=true" target="_blank">paper</a>
 
       - title: "Underwater 3D capture using a low-cost commercial depth camera"
         authors: "S. T. Digumarti, G. Chaurasia, A. Taneja, R. Siegwart, A. Thomas, P. Beardsley"
         conference: "IEEE Winter Conference on Applications of Computer Vision (WACV), pp. 1-9, 2016"
-        links: <a href="https://ieeexplore.ieee.org/document/7477644">paper</a> |
-         <a href="https://www.youtube.com/watch?v=FZ6yE4HASls">paper</a>)
+        links: <a href="https://ieeexplore.ieee.org/document/7477644" target="_blank">paper</a> |
+         <a href="https://www.youtube.com/watch?v=FZ6yE4HASls" target="_blank">video</a>
 
       - title: "Rendezvous with bearing-only information and limited sensing range"
         authors: "M. Kriegleder, S. T. Digumarti, R. Oung, R. d’Andrea"
         conference: "IEEE Conference on Robotics and Automation (ICRA), 5941-5947, Seattle, USA, May 26-30, 2015"
-        links: <a href="https://ieeexplore.ieee.org/document/7140032">paper</a>
+        links: <a href="https://ieeexplore.ieee.org/document/7140032" target="_blank">paper</a>
 
       - title: "Design and Implementation of a Smart Wheelchair"
         authors: "A. Trivedi, A. Singh, S. T. Digumarti, D. Fulwani, S. Kumar"
         conference: "Advances in Robotics, International Conference of Robotics Society of India, Pune, India, July 4-6, 2013"  
-        links: <a href="https://dl.acm.org/citation.cfm?id=2506140">paper</a>
+        links: <a href="https://dl.acm.org/citation.cfm?id=2506140" target="_blank">paper</a>
 
       - title: "The Opportunity challenge: A benchmark database for on-body sensor-based activity recognition"
         authors: "R. Chavarriaga, H. Sagha, A. Calatroni, S. T. Digumarti, G. Tröster, J. d. R. Millán, D. Roggen"
         conference: "Pattern Recognition Letters, 2013"
-        links: <a href="https://www.sciencedirect.com/science/article/pii/S0167865512004205">paper</a>
+        links: <a href="https://www.sciencedirect.com/science/article/pii/S0167865512004205" target="_blank">paper</a>
 
       - title: "Benchmarking classification techniques using the Opportunity human activity dataset"
         authors: "H. Sagha, S. T. Digumarti, J. d. R. Millán, R. Chavarriaga Lozano, A. Calatroni, D. Roggen, G. Tr\"oster"
         conference: "IEEE International Conference on Systems, Man, and Cybernetics, Anchorage, AK, USA, October 9-12, 2011"
-        links: <a href="https://ieeexplore.ieee.org/document/6083628">paper</a>
+        links: <a href="https://ieeexplore.ieee.org/document/6083628" target="_blank">paper</a>
 
 skills:
     title: Skills &amp; Proficiency
