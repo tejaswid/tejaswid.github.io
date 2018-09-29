@@ -62,7 +62,7 @@ career-profile:
       Computer Vision and Robotics group led by [Dr. Paul Beardsley](https://www.disneyresearch.com/people/paul-beardsley/).
 
 education:
-    - degree: Master of Science ETH in Robotics, Systems and Control
+    - degree: Master of Science in Robotics, Systems and Control
       university: ETH Zurich, Switzerland
       time: 2012 - 2014
       details: |
@@ -81,7 +81,8 @@ experiences:
       time: 2013
       company: TCS Innovation Labs, India
       details: |
-        Gesture driven control of a Tea-serving robot. Dr. Swagat Kumar
+        Gesture driven control of a Tea-serving robot. 
+        Dr. Swagat Kumar
 
     - role: Research Intern
       time: 2011
@@ -94,35 +95,25 @@ experiences:
       time: 2009
       company: Central Electronics Centre, Indian Institute of Technology Madras, India
       details: |
-          Techical training in electronics. Dr. M. Kumaravel
+          Techical training in electronics. 
+          Dr. M. Kumaravel
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Doctoral Thesis
+        tagline: "3D Reconstruction of Natural Structures."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Masters' Thesis
+        tagline: "Human Acquisition and Re-acquisition by Clothing Characterization."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Masters' Project
+        tagline: "Self-Assembly of the Distributed Flight Array."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Bachelors' Thesis
+        tagline: "Development of a Voice Controlled Autonomous Wheelchair."
 
 publications:
     title: Publications
