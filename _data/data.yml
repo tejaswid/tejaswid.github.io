@@ -3,41 +3,35 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sundara Tejaswi Digumarti
-    tagline: Doctoral Student
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dtejaswi@mavt.ethz.ch
-    phone: +41 78 949 5375
-    website: tejaswid.github.io #do not add http://
-    linkedin: 
-    github: tejaswid
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     gitlab:
-    bitbucket: dtejaswi
-    twitter: 
-    stack-overflow: 
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
-        level: Fluent
-
-      - idiom: Telugu
         level: Native
 
-      - idiom: Hindi
-        level: Fluent
-
-      - idiom: German
-        level: Beginner
-
       - idiom: French
-        level: Beginner
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
         
     interests:
       - item: Climbing
@@ -50,28 +44,40 @@ sidebar:
         link:
 
 career-profile:
-    title: About me
+    title: Career Profile
     summary: |
-      Hello! I am a final year doctoral student at the Autonomous Systems Lab at ETH Zurich.
-      My supervisor is Prof. Dr. Roland Siegwart.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
 
-      My doctoral thesis is in collaboration with Disney Research, Zurich where I work in the
-      Computer Vision and Robotics group led by Dr. Paul Beardsley.
+      Second paragraph if required.
 
 education:
-    - degree: Master of Science ETH in Robotics, Systems and Control
-      university: ETH Zurich, Switzerland
-      time: 2012 - 2014
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Masters' Thesis titled "Human Acquisition and Re-acquisition by Clothing Characterization"
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
           - Bullet point
           - Bullet point 
 
-    - degree: Bachelor of Technology in Electrical Engineering
-      university: Indian Institute of Technology, Jodhpur
-      time: 2008 - 2012
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        Bachelors' Thesis titled "Development of a Voice Controlled Autonomous Wheelchair"
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
           - Bullet point
           - Bullet point 
 
@@ -190,4 +196,4 @@ skills:
         level: 60%
 
 footer: >
-    Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
