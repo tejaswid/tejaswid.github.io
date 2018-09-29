@@ -159,11 +159,11 @@ publications:
         links: <a href="https://ieeexplore.ieee.org/document/6083628" target="_blank">paper</a>
 
 awards:
-    tite: Awards and Achievements
+    title: Awards and Achievements
 
     achievements:
       - title: Best Paper Award
-      - tagline: Advances in Robotics, International Conference of Robotics Society of India, Pune, India, July 4-6, 2013.
+        tagline: Advances in Robotics, International Conference of Robotics Society of India, Pune, India, July 4-6, 2013.
 
 skills:
     title: Skills &amp; Proficiency
