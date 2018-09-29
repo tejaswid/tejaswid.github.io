@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sundara Tejaswi Digumarti
@@ -13,6 +13,7 @@ sidebar:
 
     # Sidebar links
     email: dtejaswi@mavt.ethz.ch
+    email: sundaratejaswi@gmail.com
     phone: +41 78 949 5375
     website: tejaswid.github.io #do not add http://
     linkedin: 
@@ -34,9 +35,12 @@ sidebar:
         level: Fluent
 
       - idiom: German
-        level: Beginner
+        level: Conversational
 
       - idiom: French
+        level: Beginner
+
+      - idiom: Sanskrit
         level: Beginner
         
     interests:
