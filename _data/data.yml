@@ -12,8 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dtejaswi@mavt.ethz.ch
-    email: sundaratejaswi@gmail.com
+    email: dtejaswi@mavt.ethz.ch; sundaratejaswi@gmail.com
     phone: +41 78 949 5375
     website: tejaswid.github.io #do not add http://
     linkedin: 
@@ -56,11 +55,11 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Hello! I am a final year doctoral student at the Autonomous Systems Lab at ETH Zurich.
-      My supervisor is Prof. Dr. Roland Siegwart.
+      Hello! I am a final year doctoral student at the [Autonomous Systems Lab](http://www.asl.ethz.ch/) at ETH Zurich.
+      My supervisor is [Prof. Dr. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html).
 
-      My doctoral thesis is in collaboration with Disney Research, Zurich where I work in the
-      Computer Vision and Robotics group led by Dr. Paul Beardsley.
+      My doctoral thesis is in collaboration with [Disney Research](https://www.disneyresearch.com/), Zurich where I work in the
+      Computer Vision and Robotics group led by [Dr. Paul Beardsley](https://www.disneyresearch.com/people/paul-beardsley/).
 
 education:
     - degree: Master of Science ETH in Robotics, Systems and Control
