@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical Engineering, Indian Institute of Technology, Jodhpur, India. 2008-2012
+* M.Sc. in Robotics Systems and Control, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2012-2014
+* Ph.D in Robotics, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2013: Research Intern
+  * TCS Innovation Labs, India
+  * Overview: Developed a human gesture driven control framework for a service robot.
+  * Supervisor: Dr. Swagat Kumar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2011: Research Intern
+  * Centre for Neuroprosthesis and Brain-machine Interface, École polytechnique fédérale de Lausanne (EPFL), Switzerland
+  * Overview: Benchmarked classification techniques on the Opportunity - Human Activity dataset.
+  * Supervisor: Dr. Ricardo Chavarriaga, Prof. Dr. José del R. Millán
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming - C/C++, Python, ROS, Matlab
+* Deep Learning - Tensorflow, PyTorch
+* Embedded Programming - AVR micro-controllers, Arduino
+* Design and Modelling - Blender, Illustrator, Photoshop
+* CAD - OnShape
+* Circuit Design - KiCad
+* Workshop Skills - 3D printing, Laser cutting, Soldering, Welding, Casting, Turning. 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards and Achievements
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Best paper award at Advances in Robotics, International Conference of Robotics Society of India, 2013.
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* English, Telugu, Hindi - Fluent
+* German - Conversational
+* French, Sanskrit - Beginner
   
-Service and leadership
+Interests
 ======
-* Currently signed in to 43 different slack teams
+* Painting and Sculpting
+* Hiking
+* Cooking
+* Table Tennis
+* Video Games
