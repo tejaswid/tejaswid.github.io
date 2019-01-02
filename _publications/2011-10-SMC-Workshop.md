@@ -1,5 +1,5 @@
 ---
-title: "Benchmarking classification techniques using the Opportunity human activity dataset"
+title: "SMC 2011 Workshop on robust machine learning techniques for human activity recognition: Activity recognition challenge"
 collection: publications
 permalink: /publication/2011-10-SMC-Workshop
 excerpt: '**Abstract**: Human activity recognition can be used to devise assistants
