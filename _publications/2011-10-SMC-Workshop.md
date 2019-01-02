@@ -2,8 +2,7 @@
 title: "SMC 2011 Workshop on robust machine learning techniques for human activity recognition: Activity recognition challenge"
 collection: publications
 permalink: /publication/2011-10-SMC-Workshop
-excerpt: '**Abstract**: Human activity recognition can be used to devise assistants
-that provide proactive support by exploiting the knowledge of
+excerpt: '**Abstract**: Human activity recognition can be used to devise assistants that provide proactive support by exploiting the knowledge of
 the user’s context, determined from sensors located on-body.
 By using on body sensors, typically integrated into clothing
 or found in mobile gadgets, the system can operate at any
@@ -30,7 +29,7 @@ resources for such comparison. To promote such comparison,
 the workshop will present the outcome of a machine learning
 challenge where contributed methods will be evaluated on a
 public benchmark database of daily activities recorded using
-a multimodal network of on-body sensors'
+a multimodal network of on-body sensors.'
 date: 2011-10-09
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
 paperurl: 'https://www.researchgate.net/publication/258031745_SMC_2011_Workshop_on_robust_machine_learning_techniques_for_human_activity_recognition_Activity_recognition_challenge'
