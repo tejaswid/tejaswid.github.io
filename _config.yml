@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sundara Tejaswi Digumarti"
   avatar           : "tejaswi_small.png"
-  bio              : "Doctoral student at the Autonomous Systems Lab, ETH Zurich. Works on Computer Vision and Robotics"
+  bio              : "Doctoral student at the Autonomous Systems Lab, ETH Zurich.  Works on Computer Vision and Robotics"
   location         : "Zurich, Switzerland"
-  employer         : "ETH Zurich"
+  employer         : 
   googlescholar    : "https://scholar.google.ch/citations?user=_uO9ckAAAAAJ&hl=en"
   email            : "dtejaswi@mavt.ethz.ch, sundaratejaswi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,11 +101,11 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "0000-0002-0004-0868"
+  orcid            : "https://orcid.org/0000-0002-0004-0868"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "chippiguddu"
+  steam            : 
   tumblr           :
   twitter          : 
   vine             :
