@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sundara Tejaswi Digumarti"
+title: "About Me"
 excerpt: "Hello!!"
 author_profile: true
 redirect_from: 
