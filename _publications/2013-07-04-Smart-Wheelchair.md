@@ -2,7 +2,7 @@
 title: "Design and implementation of a smart wheelchair"
 collection: publications
 permalink: /publication/2013-07-04-Smart-Wheelchair
-excerpt: '**Abstract**: This paper describes the design and implementation of alternative control inputs for a smart wheelchair to be used by people with severe motor disabilities.'
+excerpt: '**Overview**: This paper describes the design and implementation of alternative control inputs for a smart wheelchair to be used by people with severe motor disabilities.'
 date: 2013-07-04
 venue: 'Advances In Robotics'
 paperurl: 'https://dl.acm.org/citation.cfm?id=2506140'

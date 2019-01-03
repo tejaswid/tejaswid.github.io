@@ -2,7 +2,7 @@
 title: "Underwater 3D capture using a low-cost commercial depth camera"
 collection: publications
 permalink: /publication/2016-03-07-Underwater-3D
-excerpt: '**Abstract**: This paper presents a calibration procedure for using commercial depth cameras underwater. This is useful fro underwater 3D capture.'
+excerpt: '**Overview**: This paper presents a calibration procedure for using commercial depth cameras underwater. This is useful fro underwater 3D capture.'
 date: 2016-03-07
 venue: 'IEEE Winter Conference on Applications of Computer Vision (WACV)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7477644'
