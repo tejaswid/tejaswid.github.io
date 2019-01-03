@@ -11,4 +11,4 @@ I am a doctoral student at the [Autonomous Systems Lab](http://www.asl.ethz.ch/)
 
 My thesis focusses on generating accurate 3D reconstructions of natural structures and environments, like trees and corals, from data captured using robots. I develop algorithms that make use of both colour and depth information from images and try to reconstruct the underlying 3D structure of the object. 
 
-I use various techniques from Computer Vision, Computer Graphics, Machine Learning, Deep Learning and Robotics in my research. For a quick overview of check out some of my projects and publications.
+I use various techniques from Computer Vision, Computer Graphics, Machine Learning, Deep Learning and Robotics in my research. For a quick overview check out some of my projects and publications.
