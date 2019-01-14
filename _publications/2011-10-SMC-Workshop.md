@@ -2,7 +2,7 @@
 title: "SMC 2011 Workshop on robust machine learning techniques for human activity recognition: Activity recognition challenge"
 collection: publications
 permalink: /publication/2011-10-SMC-Workshop
-excerpt: '**Overview**: A description of the SMC worksop on robust machine learning techniques for human activity recognition.'
+excerpt: ''
 date: 2011-10-09
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
 paperurl: 'https://www.researchgate.net/publication/258031745_SMC_2011_Workshop_on_robust_machine_learning_techniques_for_human_activity_recognition_Activity_recognition_challenge'

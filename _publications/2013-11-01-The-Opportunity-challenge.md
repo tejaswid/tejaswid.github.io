@@ -2,7 +2,7 @@
 title: "The Opportunity challenge A benchmark database for on-body sensor-based activity recognition"
 collection: publications
 permalink: /publication/2013-11-01-The-Opportunity-challenge
-excerpt: '**Overview**: This paper describes the Opportunity - Human Activity dataset.'
+excerpt: ''
 date: 2013-11-01
 venue: 'Pattern Recognition Letters'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167865512004205'

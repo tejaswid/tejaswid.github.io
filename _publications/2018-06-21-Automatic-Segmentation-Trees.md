@@ -2,7 +2,7 @@
 title: "Automatic Segmentation of Tree Structure From Point Cloud Data"
 collection: publications
 permalink: /publication/2018-06-21-Automatic-Segmentation-Trees
-excerpt: '**Overview**: This letter describes an automatic method for segmenting three-dimensional point cloud data of vegetation, acquired from commodity scanners, into its two main components: branches and leaves, by using geometric features computed directly on the point cloud.'
+excerpt: ''
 date: 2018-06-21
 venue: ' IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8392392'

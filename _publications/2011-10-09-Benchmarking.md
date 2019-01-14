@@ -2,7 +2,7 @@
 title: "Benchmarking classification techniques using the Opportunity human activity dataset"
 collection: publications
 permalink: /publication/2011-10-09-Benchmarking
-excerpt: '**Overview**: This paper provides a benchmark of the performance various machine learning techniques on classifying human activity.'
+excerpt: ''
 date: 2011-10-09
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/6083628'
