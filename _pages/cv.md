@@ -54,7 +54,7 @@ Languages
 * German - Conversational
 * French, Sanskrit - Beginner
   
-Interests
+Hobbies
 ======
 * Painting and Sculpting
 * Hiking
