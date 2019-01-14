@@ -9,3 +9,5 @@ This was a semester project at the Institute for Dynamic Systems and Control (ID
 This work was [published]((../../publication/2015-05-26-Rendezvous)) at ICRA 2015.
 
 <img src='/images/dfa-traj.png'>
+
+![Animation of the algorithm in action.](/images/dfaSelfAssembly.gif)
