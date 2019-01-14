@@ -1,6 +1,6 @@
 ---
 title: "Benchmarking Classifications Techniques for Human Activity Recognition"
-excerpt: "Voice based control for a smart wheelchair.<br/> <img src='/images/wheelchair.png'>"
+excerpt: "A benchmark of machine learning techniques for classifying human activity.<br/> <img src='/images/benchmarking.png'>"
 collection: projects
 ---
 
