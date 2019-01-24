@@ -1,5 +1,5 @@
 ---
-title: "Benchmarking Classifications Techniques for Human Activity Recognition"
+title: "Benchmarking Classification Techniques for Human Activity Recognition"
 excerpt: "A benchmark of machine learning techniques for classifying human activity.<br/> <img src='/images/benchmarking.png'>"
 collection: projects
 ---
