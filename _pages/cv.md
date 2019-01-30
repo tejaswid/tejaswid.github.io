@@ -26,7 +26,7 @@ Work experience
 * Summer 2011: Research Intern
   * Centre for Neuroprosthesis and Brain-machine Interface, École polytechnique fédérale de Lausanne (EPFL), Switzerland
   * Overview: Benchmarked classification techniques on the Opportunity - Human Activity dataset.
-  * Supervisor: Dr. Ricardo Chavarriaga, Prof. Dr. José del R. Millán
+  * Supervisors: Dr. Ricardo Chavarriaga, Dr. Hesam Sagha, Prof. Dr. José del R. Millán
   
 Skills
 ======
