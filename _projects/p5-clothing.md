@@ -1,6 +1,6 @@
 ---
 title: "Human Acquisition and Re-acquisition by Clothing Characterization"
-excerpt: "A system for identifying previously observed people using their clothing.<br/> <img src='/images/ms-framework.png'>"
+excerpt: "A system for identifying previously observed people using their clothing.<br/> <img src='/images/ms_framework.png'>"
 collection: projects
 ---
 
@@ -10,8 +10,8 @@ In this project I developed a system for identifying people who were previously 
 
 Bonus: I got the opportunity to be one of the first few to work with the developer model of the newly released Kinect v2 sensor.
 
-<img src='/images/ms-framework.png'>  
+<img src='/images/ms_framework.png'>  
 Figure shows an overview of the framework.  
 
-<img src='/images/ms-dataset.png'>  
+<img src='/images/ms_dataset.png'>  
 Figure shows a sample of the dataset.
