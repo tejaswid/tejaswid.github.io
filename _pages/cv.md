@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Click [here](../files/cv-jan2019.pdf) to download a PDF of my CV.
+Click [here](../files/CV_Sundara_Tejaswi_Digumarti.pdf) to download a PDF of my CV.
 
 Education
 ======
