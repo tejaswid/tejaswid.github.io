@@ -1,5 +1,5 @@
 ---
-title: "Underwater 3D capture using commercial depth cameras."
+title: "Underwater 3D Capture Using Commercial Depth Cameras"
 excerpt: "An underwater 3D capture system and a method for calibrating depth cameras for underwater use.<br/> <img src='/images/underwater_system.gif'>"
 collection: projects
 ---
