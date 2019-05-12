@@ -1,6 +1,6 @@
 ---
 title: "Semantic Segmentation of Tree Structure Using Deep Convolutional Neural Networks"
-excerpt: "A deel learning based framework for semantic segmentation of trees into their components.<br/> <img src='/images/tree_seg_real.png'>"
+excerpt: "A deep learning based framework for semantic segmentation of trees into their components.<br/> <img src='/images/tree_seg_real.png'>"
 collection: projects
 ---
   
