@@ -12,9 +12,9 @@ Click [here](../files/CV_Sundara_Tejaswi_Digumarti.pdf) to download a PDF of my 
 
 Education
 ======
-* B.Tech. in Electrical Engineering, Indian Institute of Technology, Jodhpur, India. 2008-2012
-* M.Sc. in Robotics Systems and Control, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2012-2014
-* Ph.D in Robotics, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2019 (expected)
+* Bachelor of Technology in Electrical Engineering, Indian Institute of Technology, Jodhpur, India. 2008-2012
+* Master of Science in Robotics, Systems and Control, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2012-2014 (thesis at Disney Research, Zurich)
+* (expecting a) Ph.D in Robotics, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2019 (collaboration with Disney Research, Zurich)
 
 Work experience
 ======
