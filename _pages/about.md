@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral research associate at the Sydney Institute for Robotics and Intelligent Systems (SIRIS) at The University of Sydney, Australia.
+I am a postdoctoral research associate at the [Sydney Institute for Robotics and Intelligent Systems (SIRIS)](http://robotics.sydney.edu.au/) at The University of Sydney, Australia.
 
 I work at the junction of Computer Vision, Robotics and Computer Graphics to develop algorithms that enable robots to understand what they see and to generate reconstructions of their environments with high accuracy. The primary environments of focus in my research are natural environments, both terrestrial (with trees and vegetation) and underwater (with corals).
 
