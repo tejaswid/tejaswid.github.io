@@ -1,7 +1,7 @@
 ---
 title: "Human Acquisition and Re-acquisition by Clothing Characterization"
 excerpt: "A system for identifying previously observed people using their clothing.<br/> <img src='/images/ms_framework.png'>"
-collection: projects
+collection: research
 ---
 
 This was my master's thesis at the Autonomous Systems Lab (ASL), ETH Zurich. This work was a joint collaboration with Disney Research, Zurich and was carried out under the supervision of Dr. Paul Beardsley, [Prof. Dr. Stelian Coros](http://crl.ethz.ch/coros.html), [Prof. Dr. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html) and [Raghav Khanna](https://raghavkhanna.github.io/).  
