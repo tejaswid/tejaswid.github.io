@@ -184,7 +184,12 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  fun:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

@@ -1,0 +1,21 @@
+---
+title: "Experimental Robotics"
+collection: "teaching"
+permalink: /teaching/experimental_robotics
+type: "Ungergraduate and Graduate course"
+venue: "The University of Sydney"
+date: 2020-03-01
+location: "Australia"
+excerpt: "Lectured modules on Computer Vision and Deep Learning for Robotics in Semester 1, 2020."
+---
+
+Course titled MTRX5700: Experimental Robotics, coordinated by Prof. Stefan Williams and Dr. Viorela Ila at The University of Sydney.
+
+This is a final year undergraduate and graduate level course at the University of Sydney covering topics such as sensing, mapping, navigation and control of mobile robots and kinematics and control of industrial robots. The subject consists of a series of lectures on robot fundamentals and case studies on practical robot systems.
+
+I delivered lectures on the modules covering Computer Vision and Deep Learning for Robotics as part of this course.
+I designed one assignment and a few questions for the final exam.
+I was involved in assessment of assignments, projects and exams along with tutors Max Revay and Jing (Johnny) Cheng.
+I was also involved in setting up and maintaining some of the infrastructure including robot arms, lab computers and the simulation frameworks used in this course.
+
+A personal highlight was being able to quickly adapt from a hardware heavy course to a simulation based course without compromising on the quality of teaching or the learning experience, when teaching at the university shifted online due to Covid 19.
