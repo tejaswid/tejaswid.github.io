@@ -15,8 +15,10 @@ Formerly, I was a doctoral student at the [Autonomous Systems Lab](http://www.as
 The advisors of my doctoral thesis were [Prof. Dr. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html) and [Dr. Paul Beardsley](https://www.linkedin.com/in/p-beardsley/).
 My thesis was on semantic segmentation and mapping in natural environments and was a joint collaboration with [Disney Research](https://www.disneyresearch.com/) at Zurich.
 
+Check out some of my projects and publications to know about the work I enjoy doing.
+
 [//]: # "I was co-supervised by Dr. Juan Nieto and [Dr. Cesar Cadena Lerma](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=223714)."
 
-For a quick overview, check out some of my [projects](projects) and [publications](publications).
+[//]: # "For a quick overview, check out some of my [projects](projects) and [publications](publications)."
 
 [//]: # "Prior to that I obtained a Master of Science degree in Robotics, Systems and Control at [ETH Zurich](https://www.ethz.ch/en.html) and a Bachelor of Technology degree in Electrical Engineering at the [Indian Institute of Technology, Jodhpur](http://iitj.ac.in/)."
