@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-08-12-Automatic-Segmentation-Trees
 excerpt: ''
 date: 2019-08-12
-venue: ' International Conference on Robotics and Automation (ICRA)'
+venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://ieeexplore.ieee.org/document/8793576'
 citation: 'Digumarti, S. T., Schmid, L. M., Rizzi, G. M., Nieto, J., Siegwart, R., Beardsley, P., & Cadena, C. (2019, May). &quot;An approach for semantic segmentation of tree-like vegetation.&quot; <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 3(4), pp. 1801-1807'
 
