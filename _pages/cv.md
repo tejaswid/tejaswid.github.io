@@ -58,6 +58,14 @@ Awards and Achievements
 * Cleared the 1st round of Bristol's Basecamp Enterprise competition, 2018-19.
 * Won gold at national level Shotokan Karate competition, 2005.
   
+Technical Memberships
+======
+Member of IEEE Robotics and Automation Society
+
+Academic Activities
+======
+Reviewer for IROS, ICRA, RAL.
+
 Languages
 ======
 * English, Telugu, Hindi - Fluent
