@@ -12,12 +12,19 @@ Click [here](../files/CV_Sundara_Tejaswi_Digumarti.pdf) to download a PDF of my 
 
 Education
 ======
-* Bachelor of Technology in Electrical Engineering, Indian Institute of Technology, Jodhpur, India. 2008-2012
+* Ph.D in Robotics, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2019 (in collaboration with Disney Research, Zurich)
+  * Thesis on Semantic Segmentation and Mapping in Natural Environments
 * Master of Science in Robotics, Systems and Control, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2012-2014 (thesis at Disney Research, Zurich)
-* (expecting a) Ph.D in Robotics, Eidgenössische Technische Hochschule (ETH) Zurich, Switzerland. 2019 (collaboration with Disney Research, Zurich)
+  * Thesis on Re-acquisition of People using Clothing Characterization
+* Bachelor of Technology in Electrical Engineering, Indian Institute of Technology, Jodhpur, India. 2008-2012
+  * Thesis on Development of a Smart Wheelchair  
 
 Work experience
 ======
+* 2019 - Current: Postdoctoral Research Associate
+  * Sydney Institute for Robotics and Intelligent Systems, The University of Sydney, Australia
+  * Supervisor: Prof. Ian Manchester
+
 * Winter 2013: Research Intern
   * TCS Innovation Labs, India
   * Overview: Developed a human gesture driven control framework for a service robot.
@@ -33,8 +40,8 @@ Skills
 * Programming - C/C++, Python, ROS, Matlab
 * Deep Learning - Tensorflow, PyTorch
 * Embedded Programming - AVR micro-controllers, Arduino
-* Design and Modelling - Blender, Illustrator, Photoshop
-* CAD - OnShape
+* Design and Modelling - Blender, Illustrator, Photoshop, Krita
+* CAD - OnShape, Autodesk Fusion 360
 * Circuit Design - KiCad
 * Workshop Skills - 3D printing, Laser cutting, Soldering, Welding, Casting, Turning. 
 
@@ -46,7 +53,10 @@ Publications
 
 Awards and Achievements
 ======
+* Reached the final round of the IROS Open Cloud Robotics Table Organization Challenge, 2020.
 * Best paper award at Advances in Robotics, International Conference of Robotics Society of India, 2013.
+* Cleared the 1st round of Bristol's Basecamp Enterprise competition, 2018-19.
+* Won gold at national level Shotokan Karate competition, 2005.
   
 Languages
 ======
