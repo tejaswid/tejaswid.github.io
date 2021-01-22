@@ -1,7 +1,7 @@
 ---
 title: "IROS OCRTOC"
 excerpt: "Open Cloud Robot Table Organization Challenge<br/> <img src='/images/ocrtoc.png' width='400'>"
-collection: research
+collection: projects
 ---
 
 Led a team of 6 students in the IROS 2020 Open Cloud Robot Table Organization Challenge ([OCRTOC](http://www.ocrtoc.org/#/)) in Aug-Nov, 2020.
