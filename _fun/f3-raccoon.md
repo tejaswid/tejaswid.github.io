@@ -14,5 +14,5 @@ Check the game [here](https://pyweek.org/e/orcses/).
 
 Credits:  
 Music: [Kranthi](https://www.linkedin.com/in/kranthi-yanamandra-197365145/).  
-Artwork: [Krishna Chintaluri](https://chintaluri.github.io/), [Manaswi](krishnamanaswid.github.io) and me.  
-Programming: [Manaswi](krishnamanaswid.github.io) and me.  
+Artwork: [Krishna Chintaluri](https://chintaluri.github.io/), [Manaswi](https://krishnamanaswid.github.io) and me.  
+Programming: [Manaswi](https://krishnamanaswid.github.io) and me.  
