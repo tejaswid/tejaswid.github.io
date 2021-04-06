@@ -85,7 +85,7 @@ Academic Activities
 Mentorship
 ======
 * Team captian and academic mentor, USyd team for IROS Open Cloud Robotics Table Organization Challenge (OCRTOC), 2020  
-* Mentor, USyd tem for the Heineken zero-contact bar project, 2020  
+* Mentor, USyd team for the Heineken zero-contact bar project, 2020  
 * Co-supervisor for Bachelors'/Honours' theses and summer internships at USyd (5 projects), 2019-2021  
 * Co-supervisor for Masters' and Bachelors' theses at ETH Zurich (10 projects), 2016-2019  
 * Mentor and co-supervisor, ETH Fokus Project, *Scubo*, an undergraduate project for the development of an omnidirectional underwater robot (8 students), 2015-2016  
