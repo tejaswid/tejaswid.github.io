@@ -6,7 +6,7 @@ type: "PhD Course"
 venue: "The University of Sydney"
 date: 2020-06-01
 location: "Australia"
-excerpt: "Lectured modules on Deep Learning for Robotics."
+excerpt: ""
 ---
 
 Internal course ([link](https://robotics.sydney.edu.au/foundations-of-robotic-research/)) for PhD students at the Sydney Insitute for Robotics and Intelligent Systems coordinated by Dr. Guodong Shi, Dr. Naoko Abe, Dr. Yi Sun and myself.
