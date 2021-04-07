@@ -6,7 +6,8 @@ collection: research
   
 In this project we developed a pipeline for semantic segmentation of trees into their components. Given a single RGB-D image of a tree, we employ a deep network to predict labels to clasify each pixel into trunk, branch, twig or leaf. We further evaluated and compared the performance of multiple network architectures that combine the complementary modlities of colour and depth. 
 
-A paper on this will be presented at the IEEE International Conference on Robotics and Automation, 2019.
+Refer to the following publication for further details.  
+Digumarti, S. T., Schmid, L. M., Rizzi, G. M., Nieto, J., Siegwart, R., Beardsley, P., & Cadena, C. (2019, May). "An approach for semantic segmentation of tree-like vegetation." IEEE International Conference on Robotics and Automation (ICRA), 3(4), pp. 1801-1807. ([link](https://ieeexplore.ieee.org/document/8793576))
 
 <img src='/images/tree_seg_network.png'>  
 Figure shows the proposed late fusion architecture and the other architectures evaluated in this project.
