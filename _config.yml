@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sundara Tejaswi Digumarti"
 title_separator          : "-"
 name                     : &name "Sundara Tejaswi Digumarti"
-description              : &description "Research Associate at the Sydney Institute for Robotics and Intelligent Systems, Australia. Works on Computer Vision and Robotics"
+description              : &description "Postdoctoral Researcher at the Oxford Robotics Institute, UK. Works on Computer Vision and Robotics"
 url                      : https://tejaswid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tejaswid/tejaswid.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sundara Tejaswi Digumarti"
   avatar           : "tejaswi_small.png"
-  bio              : "Research Associate at the Sydney Institute for Robotics and Intelligent Systems, Australia."
-  location         : "Sydney, Australia"
+  bio              : "Postdoctoral Researcher at the Oxford Robotics Institute, UK."
+  location         : "Oxford, UK"
   employer         : 
   googlescholar    : "https://scholar.google.ch/citations?user=_uO9ckAAAAAJ&hl=en"
-  email            : "tejaswi.digumarti@sydney.edu.au, sundaratejaswi@gmail.com"
+  email            : "tejaswid@robots.ox.ac.uk, sundaratejaswi@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Sundara_Tejaswi_Digumarti"
   uri              :
   bitbucket        : "dtejaswi"
@@ -276,7 +276,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
