@@ -21,7 +21,11 @@ Education
 
 Work experience
 ======
-* 2019 - Current: Postdoctoral Research Associate
+* 2021 - current: Postdoctoral Researcher
+  * Dynamic Robot Systems Group, Oxford Robotics Institute, University of Oxford, UK
+  * Supervisor: Dr. Maurice Fallon
+  
+* 2019 - 2021: Postdoctoral Research Associate
   * Sydney Institute for Robotics and Intelligent Systems, The University of Sydney, Australia
   * Supervisor: Prof. Ian Manchester
 
