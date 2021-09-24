@@ -6,7 +6,7 @@ excerpt: ''
 date: 2016-03-07
 venue: 'IEEE Winter Conference on Applications of Computer Vision (WACV)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7477644'
-citation: 'Digumarti, S. T., Chaurasia, G., Taneja, A., Siegwart, R., Thomas, A., & Beardsley, P. (2016). &quot;Underwater 3D capture using a low-cost commercial depth camera.&quot; <i>IEEE IEEE Winter Conference on Applications of Computer Vision</i>, 2016, pp. 1-9.'
+citation: 'Digumarti, S. T., Chaurasia, G., Taneja, A., Siegwart, R., Thomas, A., & Beardsley, P. (2016). &quot;Underwater 3D capture using a low-cost commercial depth camera.&quot; <i>IEEE Winter Conference on Applications of Computer Vision</i>, 2016, pp. 1-9.'
 
 ---
 ## Abstract

@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2018-06-21-Automatic-Segmentation-Trees
 excerpt: ''
 date: 2018-06-21
-venue: ' IEEE Robotics and Automation Letters'
+venue: 'IEEE Robotics and Automation Letters (RAL)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8392392'
-citation: 'Digumarti, S. T., Nieto, J., Cadena, C., Siegwart, R., & Beardsley, P. (2018). &quot;Automatic Segmentation of Tree Structure From Point Cloud Data.&quot; <i>IEEE Robotics and Automation Letters</i>, 3(4), pp. 3043-3050'
+citation: 'Digumarti, S. T., Nieto, J., Cadena, C., Siegwart, R., & Beardsley, P. (2018). &quot;Automatic Segmentation of Tree Structure From Point Cloud Data.&quot; <i>IEEE Robotics and Automation Letters (RAL)</i>, 3(4), pp. 3043-3050'
 
 ---
 ## Abstract

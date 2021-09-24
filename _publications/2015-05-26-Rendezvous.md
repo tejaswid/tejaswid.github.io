@@ -6,7 +6,7 @@ excerpt: ''
 date: 2015-05-26
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7140032'
-citation: 'Kriegleder, M., Digumarti, S. T., Oung, R., & D Andrea, R. (2015). &quot;Rendezvous with bearing-only information and limited sensing range.&quot; <i>IEEE Conference on Robotics and Automation</i>, 2015, pp. 5941-5947.'
+citation: 'Kriegleder, M., Digumarti, S. T., Oung, R., & D Andrea, R. (2015). &quot;Rendezvous with bearing-only information and limited sensing range.&quot; <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2015, pp. 5941-5947.'
 
 ---
 ## Abstract
