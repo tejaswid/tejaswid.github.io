@@ -3,7 +3,7 @@ title: "Unsupervised learning of depth estimation and visual odometry for sparse
 collection: publications
 permalink: /publication/2021-09-28-LF-Depth-Odometry-Estimation
 excerpt: ''
-date: 2019-09-28
+date: 2021-09-28
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://roboticimaging.org/Papers/digumarti2021unsupervised.pdf'
 citation: 'Digumarti, S. T., Daniel, J., Ravendran, A., Griffiths, R., Dansereau, D. G. (2021, September). &quot;Unsupervised learning of depth estimation and visual odometry for sparse light field cameras.&quot; <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i> (to appear)'
