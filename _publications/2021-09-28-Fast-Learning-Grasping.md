@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-09-28
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://http://export.arxiv.org/pdf/2107.02452'
-citation: 'Ren, X., Wang, X., Digumarti, S. T., Shi, G. (2021, September). &quot;Fast-Learning Grasping and Pre-Grasping Via Clutter Quantization and Q-Map Masking.&quot; <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i> (to appear)'
+citation: 'Ren, X., Wang, X., Digumarti, S. T., Shi, G. (2021, September). &quot;Fast-Learning Grasping and Pre-Grasping Via Clutter Quantization and Q-Map Masking.&quot; <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>'
 
 ---
 ## Abstract
