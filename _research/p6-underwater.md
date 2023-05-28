@@ -9,7 +9,7 @@ In this project we developed a complete underwater 3D capture system using comme
 A [paper](../../publication/2016-03-07-Underwater-3D) on this was published at the IEEE Winter conference on Applications of Computer Vision (WACV), 2016.
 
 <img src='/images/underwater_system.gif'>  
-Figure shows (a) CAD model of the system, (b) the device being tested underwater.
+(a) CAD model of the system, (b) the device being tested underwater.
 
 <img src='/images/underwater_refractions.gif'>  
-Figure shows the refraction model.
+The refraction model.

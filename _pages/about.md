@@ -17,4 +17,4 @@ Prior to that, I obtained my doctoral degree from the [Autonomous Systems Lab](h
 
 I received my masters' degree in Robotics, Systems and Control from [ETH Zürich](https://www.ethz.ch/en.html), Switzerland in 2014 and my bachelors' degree in Electrical Engineering from the [Indian Institute of Technology, Jodhpur](https://iitj.ac.in), India in 2012.
 
-Check out some of my projects and publications to know about the work I enjoy doing.
+Check out my research and publications to know about the work I enjoy doing.

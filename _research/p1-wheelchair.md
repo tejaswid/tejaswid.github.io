@@ -9,7 +9,7 @@ This project was my bachelor's thesis at IIT Jodhpur, supervised by [Dr. Swagat 
 This work was [published](../../publication/2013-07-04-Smart-Wheelchair) at the Advances in Robotics conference in 2013 and won the best paper award.
 
 <img src='/images/wheelchair.png'>  
-Figure shows (top) 20 utterances of the word left, (middle) the same signals with their tail ends clipped, (bottom) average Fourier spectrum of the word. <br/> 
+(top) 20 utterances of the word left, (middle) the same signals with their tail ends clipped, (bottom) average Fourier spectrum of the word. <br/> 
 
 <img src='/images/wheelchair-head-tilt.png'>  
-Figure shows head tilt detection using contour detection.
+Head tilt detection using contour detection.

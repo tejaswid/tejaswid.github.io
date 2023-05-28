@@ -10,7 +10,7 @@ Refer to the following publication for further details.
 Digumarti, S. T., Schmid, L. M., Rizzi, G. M., Nieto, J., Siegwart, R., Beardsley, P., & Cadena, C. (2019, May). "An approach for semantic segmentation of tree-like vegetation." IEEE International Conference on Robotics and Automation (ICRA), 3(4), pp. 1801-1807. ([link](https://ieeexplore.ieee.org/document/8793576))
 
 <img src='/images/tree_seg_network.png'>  
-Figure shows the proposed late fusion architecture and the other architectures evaluated in this project.
+The proposed late fusion architecture and the other architectures evaluated in this project.
 
 <img src='/images/tree_seg_real.png'>  
-Figure shows qualitative results of different architectures on real world data.
+Qualitative results of different architectures on real world data.

@@ -9,4 +9,4 @@ In this project we developed a data-driven algorithm for segmenting the 3D point
 A journal [letter](../../publication/2018-06-21-Automatic-Segmentation-Trees) on this was published in the IEEE Robotics and Automation Letters (RAL), 2018 and presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018.
 
 <img src='/images/tree_segmentation.gif'>  
-Figure shows (a) the input point cloud, (b) its extracted meso-skeleton and (c) the segmentation result of the proposed algorithm.
+(a) the input point cloud, (b) its extracted meso-skeleton and (c) the segmentation result of the proposed algorithm.

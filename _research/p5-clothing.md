@@ -11,7 +11,7 @@ In this project we developed a system for identifying people who were previously
 Bonus: I got the opportunity to be one of the first few to work with the developer model of the then newly released Kinect v2 sensor.
 
 <img src='/images/ms_framework.png'>  
-Figure shows an overview of the framework.  
+An overview of the framework.  
 
 <img src='/images/ms_dataset.png'>  
-Figure shows a sample of the dataset.
+A sample of the dataset.
