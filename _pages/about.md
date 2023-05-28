@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at the [Dynamic Robots and Systems Group (DRS)](https://ori.ox.ac.uk/labs/drs/) at the [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/), University of Oxford, UK.
+I am a robotics and perception R&D engineer working on Visual SLAM at Arrival UK, London, UK. I develop the perception stack for autonomous robots to be deployed in electrical vehicle manufacturing factories. 
 
-I currently work on topics related to robot navigation and mapping. The focus of my research is on utilizing semantics and structure to segment 3D navigation maps, extract meaning and enable long term scene understanding.
+Previously I was a postdoctoral researcher at the [Dynamic Robots and Systems Group (DRS)](https://ori.ox.ac.uk/labs/drs/) at the [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/), University of Oxford, UK. There I worked on LiDAR based localization, semantic mapping and navigation. The focus of my research was on utilizing semantics and structure to segment 3D navigation maps, extract meaning and enable long term scene understanding.
 
 Before joining ORI, I was a postdoctoral research associate at the [Australian Centre for Field Robotics (ACFR)](http://robotics.sydney.edu.au/), The University of Sydney, Australia from 2019-2021. There, I worked on learning based approaches for interpreting novel camera systems and semantic segmentation of large scale point clouds of forests. I was also a part-time lecturer for the undergraduate courses on Mechatronics, Experimental Robotics and a co-coordinator for a PhD level course on Foundations of Robotics Research.
 
