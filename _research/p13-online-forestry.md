@@ -18,6 +18,8 @@ Trajectories of three seperate scans in a commerical forest in Finland.
 <img src='/images/online-forestry.png'>
 Combined map from the above trajectories.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lv2VTNnxtjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This work resulted in the following publications.  
 - A. Proudman, M. Ramezani, S. T. Digumarti, N. Chebrolu and M. Fallon, "Towards Real-Time Forest Inventory using Handheld LiDAR." in Robotics and Autonomous Systems, 2022 ([link](https://www.sciencedirect.com/science/article/pii/S0921889022001397))
 
