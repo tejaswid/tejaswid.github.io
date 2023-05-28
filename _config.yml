@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sundara Tejaswi Digumarti"
 title_separator          : "-"
 name                     : &name "Sundara Tejaswi Digumarti"
-description              : &description "Postdoctoral Researcher at the Oxford Robotics Institute, UK. Works on Computer Vision and Robotics"
+description              : &description "Visual SLAM R&D Engineer, Arrival UK. Works on Computer Vision and Robotics"
 url                      : https://tejaswid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tejaswid/tejaswid.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sundara Tejaswi Digumarti"
   avatar           : "tejaswi_small.png"
-  bio              : "Postdoctoral Researcher at the Oxford Robotics Institute, UK."
-  location         : "Oxford, UK"
+  bio              : "Visual SLAM R&D Engineer, Arrival UK."
+  location         : "London, UK"
   employer         : 
   googlescholar    : "https://scholar.google.ch/citations?user=_uO9ckAAAAAJ&hl=en"
-  email            : "tejaswid@oxfordrobotics.institute, sundaratejaswi@gmail.com"
+  email            : "sundaratejaswi@gmail.com, tejaswid@oxfordrobotics.institute"
   researchgate     : "https://www.researchgate.net/profile/Sundara_Tejaswi_Digumarti"
   uri              :
   bitbucket        : "dtejaswi"
