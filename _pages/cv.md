@@ -21,7 +21,10 @@ Education
 
 Work experience
 ======
-* 2021 - current: Postdoctoral Researcher
+* November 2022 - current: Visual SLAM R&D Engineer  
+  * Arrival UK, London UK
+
+* 2021 - 2022: Postdoctoral Researcher
   * Dynamic Robot Systems Group, Oxford Robotics Institute, University of Oxford, UK
   * Supervisor: Dr. Maurice Fallon
   
@@ -70,7 +73,7 @@ Awards and Achievements
   
 Technical Memberships
 ======
-Member of IEEE Robotics and Automation Society
+Member of IEEE Robotics and Automation Society (RAS)
 
 Academic Activities
 ======
@@ -95,6 +98,21 @@ Mentorship
 * Mentor and co-supervisor, ETH Fokus Project, *Scubo*, an undergraduate project for the development of an omnidirectional underwater robot (8 students), 2015-2016  
 * Co-founder and mentor, amateur robotics and electronics clubs of IIT Jodhpur, 2018-2012  
 * Coordinator, student counselling services of IIT Jodhpur, 2009-2012  
+
+Community and Outreach
+======
+* Co-organized ICRA Workshop on Sensing, Estimating and Understanding the Dynamic World, 2020
+* Co-organized IEEE RAS Winter School on SLAM in Deformable Environments, 2021
+* Organized conference-based paper discussion sessions at SIRIS/ACFR, 2020
+* Helped organize talks for a seminar series at SIRIS/ACFR, 2020
+* Associate Editor for TAROS 2023
+* Paper reviewer:
+  * IEEE Transactions on Robotics (T-RO), 2021 - 2023
+  * IEEE International Conference on Robotics and Automation (ICRA), 2019 - 2023
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018 – 2023
+  * IEEE Robotics and Automation Letters (RAL), 2018 - 2022
+* Volunteer, Conference on Robot Learning (CoRL), 2018
+* Volunteer, Eurographics, 2015
 
 Languages
 ======
