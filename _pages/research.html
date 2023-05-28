@@ -7,8 +7,172 @@ author_profile: true
 
 {% include base_path %}
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    *{
+      box-sizing: border-box;
+    }
 
-{% for post in site.research reversed%}
-  {% include archive-single.html %}
-{% endfor %}
+    .column
+    {
+      float: left;
+      width: 50%;
+      padding: 2%;
+    }
+    /*Clear floats after the column*/
+    .row:after
+    {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) 
+    {
+      .column 
+      {
+        width: 100%;
+      }
+    }
+  </style>
+</meta>
+
+
+<div>
+  <!-- Row begins -->
+  <div class="row">
+    <!-- Realtime Forestry -->
+    <div class="column">
+      <a href="/research/p13-realtime-forestry/"><h3>Learning to See with Sparse Light Field Video Cameras</h3></a>
+      <img src='/images/lf-depth.jpg' style="width:80%">
+      <p>Generalized unsupervised odometry and depth estimation on sparse 4D light fields.</p>
+    </div>
+
+    <!-- Semantic mapping -->
+    <div class="column">
+      <a href="/research/p12-semantic-mapping/"><h3>Semantic Mapping</h3></a>
+      <img src='/images/semantic-mapping.png' style="width:100%">
+      <p>Strategies for large scale elastic and semantic LiDAR reconstruction.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <!-- Row begins -->
+  <div class="row">
+    <!-- Light field depth estimation -->
+    <div class="column">
+      <a href="/research/p11-lf-depth/"><h3>Learning to See with Sparse Light Field Video Cameras</h3></a>
+      <img src='/images/lf-depth.jpg' style="width:80%">
+      <p>Generalized unsupervised odometry and depth estimation on sparse 4D light fields.</p>
+    </div>
+
+    <!-- Semantics for forestry -->
+    <div class="column">
+      <a href="/research/p10-forest-semantics/"><h3>Semantics for Forestry</h3></a>
+      <img src='/images/forest-sem.png' style="width:100%">
+      <p>A framework for extracting tree structures from forest scale 3D point clouds.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <div class="row">
+    <h2> Doctoral Thesis at ETH Zurich and Disney Research, Zurich, Switzerland</h2>
+  </div>
+
+  <!-- Row begins -->
+  <div class="row">
+    <div class="column">
+      <!-- Semantics for 3D tree point clouds using deep learning -->
+      <a href="/research/p9-tree-segmentation-jakob/"><h3>Learning Based Tree Point Cloud Segmentation</h3></a>
+      <img src='/images/jakob2.gif' style="width:100%">
+      <p>A learning based approach for segmenting a 3D point cloud of a tree into wood and leaves.</p>
+    </div>
+
+    <!-- Semantics in RGBD images of trees -->
+    <div class="column">
+      <a href="/research/p8-tree-segmentation/"><h3>Semantic Segmentation of Tree Structure using CNNs</h3></a>
+      <img src='/images/tree_seg_real.png' style="width:100%">
+      <p>A deep learning based framework for semantic segmentation of RGBD images of trees into their components.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <!-- Row begins -->
+  <div class="row">
+    <div class="column">
+      <!-- Semantics for 3D tree point clouds -->
+      <a href="/research/p7-tree-segmentation/"><h3>Segmentation of Tree Structure from 3D point clouds</h3></a>
+      <img src='/images/tree_segmentation.gif' style="width:100%">
+      <p>A data-driven approach for segmenting a 3D point cloud of a tree into its components, using curvature features.</p>
+    </div>
+
+    <!-- Underwater 3D capture -->
+    <div class="column">
+      <a href="/research/p6-underwater/"><h3>Underwater 3D capture using Commercial Depth Cameras</h3></a>
+      <img src='/images/underwater_system.gif' style="width:100%">
+      <p>An underwater 3D capture system and a method for calibrating depth cameras for underwater use.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <div class="row">
+    <h2> Masters Thesis at ETH Zurich and Disney Research, Zurich, Switzerland</h2>
+  </div>
+
+  <!-- Row begins -->
+  <div class="row">
+    <div class="column">
+      <!-- Human Acquisition and Re-acquisition -->
+      <a href="/research/p5-clothing/"><h3>Human Acquisition and Re-acquisition by Clothing Characterization</h3></a>
+      <img src='/images/ms_framework.png' style="width:100%">
+      <p>A system for identifying previously observed people using their clothing.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <!-- Row begins -->
+  <div class="row">
+    <h2> Masters Project at ETH Zurich, Switzerland</h2>
+
+    <!-- Rendezvous DFA -->
+    <div class="column">
+      <a href="/research/p3-rendezvous/"><h3>Self-Assembly of the Distributed Flight Array</h3></a>
+      <img src='/images/dfa.png' style="width:100%">
+      <p>A rendezvous algorithm for a multi robot system.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <!-- Row begins -->
+  <div class="row">
+    <h2> Research Internship at TCS Innovation Labs, Noida, India</h2>
+
+    <div class="column">
+      <!-- TCS Gesture based control -->
+      <a href="/research/p4-tcs/"><h3>Gesture based control for a service robot</h3></a>
+      <img src='/images/tcs.png' style="width:100%">
+      <p>A framework for controlling a service robot using human gestures</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <!-- Row begins -->
+  <div class="row">
+    <h2> Research Internship at CNBI, EPFL, Switzerland</h2>
+
+    <div class="column">
+      <!-- Opportunity dataset benchmarking -->
+      <a href="/research/p2-cnbi/"><h3>Benchmarking Classification Techniques for Human Activity Recognition</h3></a>
+      <img src='/images/benchmarking.png' style="width:100%">
+      <p>A benchmark of machine learning techniques for classifying human activity.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+  <!-- Row begins -->
+  <div class="row">
+    <h2> Bachelors Thesis at IIT Jodhpur, India</h2>
+
+    <div class="column">
+      <!-- Smart wheelchair -->
+      <a href="/research/p1-wheelchair/"><h3>Smart Wheel Chair</h3></a>
+      <img src='/images/wheelchair.png' style="width:100%">
+      <p>Voice based control for a smart wheelchair.</p>
+    </div>
+  </div>  <!-- Row ends -->
+
+</div>
 
