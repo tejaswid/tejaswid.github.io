@@ -108,6 +108,7 @@ Community and Outreach
 * Co-organized IEEE RAS Winter School on SLAM in Deformable Environments, 2021
 * Organized conference-based paper discussion sessions at SIRIS/ACFR, 2020
 * Helped organize talks for a seminar series at SIRIS/ACFR, 2020
+* Associate Editor for Robotics Reports 2023
 * Associate Editor for TAROS 2023
 * Paper reviewer:
   * IEEE Transactions on Robotics (T-RO), 2021 - 2023
