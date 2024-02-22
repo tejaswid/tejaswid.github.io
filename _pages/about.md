@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a robotics and perception R&D engineer working on Visual SLAM at Arrival UK, London, UK. I develop the perception stack for autonomous robots to be deployed in electrical vehicle manufacturing factories. 
+I am a Senior Engineer (Localisation) at [Oxa](https://oxa.tech/), Oxford, UK working on Lidar based localisation.
+
+Prior to that I was a robotics and perception R&D engineer working on Visual SLAM at Arrival UK, London, UK. I helped develop the perception stack for autonomous robots to be deployed in electrical vehicle manufacturing factories. 
 
 Previously I was a postdoctoral researcher at the [Dynamic Robots and Systems Group (DRS)](https://ori.ox.ac.uk/labs/drs/) at the [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/), University of Oxford, UK. There I worked on LiDAR based localization, semantic mapping and navigation. The focus of my research was on utilizing semantics and structure to segment 3D navigation maps, extract meaning and enable long term scene understanding.
 
