@@ -21,8 +21,11 @@ Education
 
 Work experience
 ======
-* November 2022 - current: Visual SLAM R&D Engineer  
-  * Arrival UK, London UK
+* October 2023 - Current: Senior Engineer (Localisation)
+  * Oxa, Oxford, UK
+
+* November 2022 - September 2023: Visual SLAM R&D Engineer  
+  * Arrival UK, London, UK
 
 * 2021 - 2022: Postdoctoral Researcher
   * Dynamic Robot Systems Group, Oxford Robotics Institute, University of Oxford, UK
